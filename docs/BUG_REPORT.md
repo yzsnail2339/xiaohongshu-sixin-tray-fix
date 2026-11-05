@@ -57,4 +57,6 @@ ZIP 内安装程序 `小红书私信通-Setup-1.0.11.exe` 的 SHA-256：`acbe6b8
 
 [复现与补丁仓库](https://github.com/yzsnail2339/xiaohongshu-sixin-tray-fix)
 
-本文仅记录功能缺陷，不包含账号、私信、Cookie 或设备标识。公开此报告不代表官方已接收或确认问题。
+2026-11-06，使用者已在私信通产品内「反馈」入口提交上述问题及仓库链接，并确认提交。暂未取得受理编号或研发团队回复；后续记录见[上游反馈跟踪 #1](https://github.com/yzsnail2339/xiaohongshu-sixin-tray-fix/issues/1)。
+
+本文仅记录功能缺陷，不包含账号、私信、Cookie 或设备标识。提交反馈不代表官方已确认问题或承诺修复。

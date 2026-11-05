@@ -99,6 +99,8 @@ python tests/run_local_client_tests.py --asar "C:\Apps\小红书私信通\resour
 
 [正式缺陷报告](docs/BUG_REPORT.md)可以复制到私信通产品内的官方反馈入口。请附版本、复现步骤和本仓库链接，不要上传 Cookie、验证码、账号数据库、私信截图或完整客户端包。
 
+2026-11-06 已通过产品内反馈提交，暂未收到官方答复：[上游反馈跟踪 #1](https://github.com/yzsnail2339/xiaohongshu-sixin-tray-fix/issues/1)。
+
 本仓库的 Issue 用于记录复现和修复反馈，不是小红书的官方客服渠道。发布 Issue 或链接一个组织不等于官方开发团队已收到通知。
 
 ## 许可
