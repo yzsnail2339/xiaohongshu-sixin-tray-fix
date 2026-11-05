@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+*.asar
+*.asar.*
+*.exe
+*.zip
+*.bak
+*.original
+*.log
+.env
+.env.*
+local-client/
+work/
